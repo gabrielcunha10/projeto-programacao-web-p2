@@ -29,6 +29,6 @@
 
 <?php
     }else{
-        echo "<h2>Nenhuma página cadastrado!</h2>";
+        echo "<h2>Nenhuma página cadastrada!</h2>";
     }
 ?>
