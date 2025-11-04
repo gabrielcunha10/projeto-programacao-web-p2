@@ -17,7 +17,7 @@
     <label>Descrição:</label><br>
     <input type="text" name="descricao" value="<?=$pagina['descricao']?>"><br>
     <label>Preço:</label><br>
-    <input type="number" name="titulo" value="<?=$pagina['preco']?>"><br>
+    <input type="number" name="preco" value="<?=$pagina['preco']?>"><br>
     <label>Imagem do produto (URL):</label><br>
     <input type="text" name="imagem" value="<?=$pagina['imagem']?>"><br>
     <label>Texto do produto:</label><br>
