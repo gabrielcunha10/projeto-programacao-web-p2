@@ -23,7 +23,7 @@ O projeto **Lojas G2** é um sistema CRUD desenvolvido em PHP para gerenciar pro
    - Coloque os arquivos na pasta `htdocs` (caso use o XAMPP).
    - Acesse `http://localhost/projeto1` no navegador.
 4. **Painel Administrativo:**
-   - As páginas de gerenciamento estão disponíveis via `http://localhost/projeto1/admin/admin.php`.
+   - As páginas de gerenciamento estão disponíveis via `http://localhost/projeto1/admin/admin.php`, ou clique em ADMIN no menu inicial.
 
 ---
 
