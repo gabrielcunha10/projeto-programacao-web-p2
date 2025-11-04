@@ -16,17 +16,17 @@ O projeto **Lojas G2** é um sistema CRUD desenvolvido em PHP para gerenciar pro
 
 ## 🧠 Instruções de Uso
 1. **Importe o banco de dados:**
-   - Use o arquivo `lojas_g2.sql` incluso no pacote ZIP.
+   - Use o arquivo `lojas_g2.sql` incluso no repositório.
 2. **Configure a conexão:**
-   - Edite o arquivo `config.inc.php` e ajuste os dados do seu servidor MySQL.
+   - Edite o arquivo `config.inc.php` e ajuste os dados do seu servidor MySQL caso precise.
 3. **Execute o projeto:**
    - Coloque os arquivos na pasta `htdocs` (caso use o XAMPP).
-   - Acesse `http://localhost/projeto1/index.php` no navegador.
+   - Acesse `http://localhost/projeto1` no navegador.
 4. **Painel Administrativo:**
-   - As páginas de gerenciamento estão disponíveis via `?pg=paginas`.
+   - As páginas de gerenciamento estão disponíveis via `?pg=admin`.
 
 ---
 
 ## 📦 Resumo da Entrega
-- **Arquivos incluídos:** Projeto completo em `.zip` + Banco de dados `lojas_g2.sql`  
+- **Arquivos incluídos:** Projeto completo no repositório + Banco de dados `lojas_g2.sql`  
 - **Arquivo atual:** `README.md` (este documento)
